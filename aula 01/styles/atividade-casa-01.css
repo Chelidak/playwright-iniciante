@@ -1,0 +1,31 @@
+* {
+    font-family: "Roboto", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    background-color: rgb(235, 241, 149);
+}
+
+#titulo-principal {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: rgb(226, 9, 38);
+
+}
+
+h2 {
+    font-family: "Montserrat", sans-serif;
+    font-weight: 700;
+    font-size: 24px;
+    color: rgb(226, 9, 38);
+}
+
+p {
+    font-size: 16px;
+    color: rgb(10, 10, 10);
+}
+
+li {
+    font-size: 20px;
+    color: rgb(68, 4, 12);
+}
